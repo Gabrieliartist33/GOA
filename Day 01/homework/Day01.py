@@ -1,0 +1,1 @@
+print("Nino svanishvili, Ilia khaniashvili, Temuka khaniashvili, Giorgi khaniashvili, Gabrieli khaniashvili")
