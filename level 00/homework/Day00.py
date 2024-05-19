@@ -93,3 +93,47 @@ forward(35)
 right(180)
 forward(70)
 exitonclick()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name = ("Gabrieli")
+age = 10
+metre = 137
