@@ -111,29 +111,6 @@ exitonclick()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 name = ("Gabrieli")
 age = 10
 metre = 137
