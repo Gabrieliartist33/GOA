@@ -1,14 +1,12 @@
 # 1
-name = ("Gabrieli")
-surname = ("khaniashvili")
-print("name , surname")
+name = input("what is your name?: ")
+print(name)
 # 2
-surname = input ("Gabriel khaniashvili:")
-
+surname = input("what's your surname: ")
+print(surname)
 # 3
-surname = input ("Gabriel khaniashvili:")
-print("what's your favorite pet: my favorite pet is dog. what's your favorite colour: my favorite color is red. what's your favorite car: my favorite car is bugatti. and what's your favorite actor: my favorite actor is uil smiti.")
-
+text_to_my_friend = input("enter text to your friend: ")
+print(text_to_my_friend)
 # 4
 # input-ი არის, მაგალითად როცა რაიმეს ვწერ ან ვლაპარაკობ,
 # შემდეგ კი ის გადასცემს output-ს. output-ი კი არის მაგალითად როცა input-ი გადასცემს თავის ნებისმიერ მოქმედებას მაგალითად 
@@ -18,3 +16,16 @@ print("what's your favorite pet: my favorite pet is dog. what's your favorite co
 # concatenation ნიშნავს შეერთებას, მაგალითად, "თოვლის" და "ბურთის" შეერთება არის "თოვლის ბურთი", 
 # ანუ პროგრამირებაში როცა დავწერთ რაიმე სიტყვას და მის წინ დავუწერთ პლიუსის ნიშანს, კიდევ რაიმე სიტყვა, რომ დავწეროთ, 
 # ის სიტყვები ერთმანეთს შეუერთდება.
+
+# 6
+questions_for_me1 = input("enter for what's your favorite pet, -> ")
+print(questions_for_me1)
+
+questions_for_me2 = input("enter for what's your favorite color, -> ")
+print(questions_for_me2)
+
+questions_for_me3 = input("enter for what's your favorite car, -> ")
+print(questions_for_me3)
+
+questions_for_me4 = input("enter for what's your favorite actor, -> ")
+print(questions_for_me4)
