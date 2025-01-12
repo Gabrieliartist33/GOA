@@ -1,0 +1,32 @@
+#site-footer, #site-title {
+    background-color: blue;
+    color: brown;
+    text-align: center;
+    height: 100px;
+}
+
+.nav.link {
+    color: aqua;
+}
+
+.highlight {
+    font-size: medium;
+    background-color: rgb(54, 54, 54);
+}
+
+#color-box {
+    background-color: rgb(231,211,0,);
+    padding: 10px;
+}
+
+.color-1 {
+    color: rgb(198,114,1);
+}
+
+.color-2 {
+    color: rgb(178,104,3);
+}
+
+.color-3 {
+    color: rgb(118,24,1);
+}
