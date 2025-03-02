@@ -1,0 +1,53 @@
+#div-1 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+#div-2 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 162, 0);
+}
+#div-3 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(208, 255, 0);
+}
+#div-4 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 149, 0);
+}
+#div-5 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(115, 255, 0);
+}
+#div-6 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(183, 0, 255);
+}
+#div-7 {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 255, 183, 0.721);
+}
+#div-8 {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 132, 255, 0.259);
+}
+#div-9 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 255, 145);
+}
+
+#div-10 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 123, 255);
+}
+

@@ -1,3 +1,4 @@
 # შექმენით ფუნქცია, რომელსაც გადაეცემა მომხმარებლის სახელი. ფუნქციამ უნდა დაბეჭდოს "Welcome {აქ სახელი}!"
-def name(Gabrieli) :
-    print(welcome + name)
+def num(num_1):
+    print("welcome" + num_1)
+num(Gabriel)

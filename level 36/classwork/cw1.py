@@ -1,0 +1,7 @@
+def manual_capitalize (user_str)
+    print(user_str[0].upper() + user_str[1].lower())
+manual_capitalize("GOA")
+manual_capitalize("mom")
+manual_capitalize("lol")
+manual_capitalize("DAD")
+manual_capitalize("DOG")

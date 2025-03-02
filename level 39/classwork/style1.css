@@ -1,0 +1,14 @@
+#table_1,th,td {
+    border: 2px solid greenyellow;
+    border-collapse: collapse;
+}
+
+#table_1 tr:nth-child(1){
+    background-color: green;
+    color: aliceblue;
+}
+
+#table_1 tr:nth-child(3),#table_1 tr:nth-child(5){
+    background-color: gray;
+    color: black;
+}

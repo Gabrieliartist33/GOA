@@ -1,0 +1,11 @@
+#parrent {
+    background-color: rgb(0, 255,0);
+    width: 1000px;
+    height: 1000px;
+}
+
+#child {
+    background-color: black;
+    width: 20%;
+    height: 15%;
+}
